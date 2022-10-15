@@ -5,3 +5,4 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+Greeting.create!([{title:'Hello Rails father of React'},{title:'Good Morning London'},{title:'Hello Nigeria'},{title:'Hello React First born of Angular',}])

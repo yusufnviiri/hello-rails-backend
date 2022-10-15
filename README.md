@@ -1,6 +1,6 @@
 # React with Rails
 - A project to show a random greeting 
-# ![](https://img.shields.io/badge/Microverse-blueviolet) rails_react
+# ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
 
 ## Built with
@@ -10,7 +10,7 @@
 - PostgreSQL
 
 ## Live Demo
-[coming]
+[coming](##)
 
 ## Getting Started
 ## Prerequisites
@@ -42,6 +42,7 @@ Run the following commands to run the app
 - `rails s -p 3001`
 -  Clone the following repository with front-end setup
 ## [ Link to Front End(React)](https://github.com/yusufnviiri/hello-react-front-end)
+- `git clone https://github.com/yusufnviiri/hello-react-front-end`
 - `cd /hello-rails-front-end`
 - `npm install`
 Run the following commands to run the app

@@ -3,5 +3,5 @@ Rails.application.routes.draw do
   resources :greeting
 
   # Defines the root path route ("/")
-  # root "articles#index"
+  root "greeting#index"
 end

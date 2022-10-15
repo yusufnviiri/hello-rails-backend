@@ -3,9 +3,16 @@
 # ![](https://img.shields.io/badge/Microverse-blueviolet) rails_react
 
 
-## [Front End](https://github.com/yusufnviiri/hello-react-front-end)
+## Built with
 
+- Ruby
+- Ruby on Rail
+- PostgreSQL
 
+## Live Demo
+[coming]
+
+## Getting Started
 ## Prerequisites
 
 - Ruby
@@ -20,8 +27,8 @@
 - Postgresql database
 
 
-## Getting Started
 To get a local copy of the app, run the following commands in your terminal:
+
 - `git clone https://github.com/yusufnviiri/hello-rails-backend`
 - `cd /hello-rails-backend`
 - `bundle install`
@@ -33,19 +40,17 @@ Run the following commands to run the app
 - `rails db:migrate`
 - `rails db:seed`
 - `rails s -p 3001`
-
+-  Clone the following repository with front-end setup
+## [ Link to Front End(React)](https://github.com/yusufnviiri/hello-react-front-end)
+- `cd /hello-rails-front-end`
+- `npm install`
 Run the following commands to run the app
 - `npm run start`
 ## Author
-
-
 ## 👤 Yusuf Nviiri
 - GitHub: [@yusufnviiri](https://github.com/yusufnviiri)
 - Twitter: [@YNviiri](https://twitter.com/YNviiri)
 - LinkedIn: [yusufnviiri]( https://www.linkedin.com/in/yusuf-nviiri-8b4146206/)
-***
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
